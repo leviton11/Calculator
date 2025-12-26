@@ -3,12 +3,9 @@
 Este projeto consiste em uma calculadora simples desenvolvida em linguagem C, executada via terminal (CLI).  
 Ela permite realizar operações matemáticas básicas, sendo ideal para fins educacionais e prática de programação em C.
 
-![C](https://img.shields.io/badge/language-C-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
-
 ---
 
-## 📸 Demonstração
+##  Demonstração
 
 A imagem abaixo mostra a calculadora sendo executada no terminal:
 
@@ -16,7 +13,7 @@ A imagem abaixo mostra a calculadora sendo executada no terminal:
 
 ---
 
-## ⚙️ Instalação e Pré-requisitos
+##  Instalação e Pré-requisitos
 
 ### Pré-requisitos
 - Compilador C (GCC recomendado)
