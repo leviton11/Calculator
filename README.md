@@ -32,8 +32,11 @@ e o resultado é exibido diretamente no terminal.
 O projeto é organizado da seguinte forma:
 
 calculadora-c/
+
 README.md
+
 src/calculadora.c
+
 assets/demo.png
 
 O arquivo README.md contém a documentação do projeto.
