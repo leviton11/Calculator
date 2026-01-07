@@ -6,8 +6,13 @@ O objetivo do projeto é educacional, focado na prática de lógica de programa�
 
 ## Demonstração
 
-O funcionamento da calculadora é demonstrado por meio de uma imagem ou GIF do terminal.
-O arquivo de demonstração encontra-se na pasta assets, com o nome demo.png.
+A imagem abaixo mostra a execução da calculadora no terminal.  
+Nela, é possível observar o menu de opções, a escolha da operação de adição, a entrada dos dois valores e a exibição do resultado final.  
+Após a operação, o programa é encerrado conforme a escolha do usuário.
+
+![demo.png](https://raw.githubusercontent.com/leviton11/Calculator/refs/heads/main/assets/demo.png)
+
+
 
 ## Instalação e Pré-requisitos
 
