@@ -3,6 +3,8 @@
 Este projeto é uma calculadora simples desenvolvida em linguagem **C** e executada via terminal (CLI).  
 Ela permite realizar operações matemáticas básicas como **soma, subtração, multiplicação e divisão**.
 
+O objetivo do projeto é **educacional**, focado na prática de lógica de programação e no uso da linguagem C.
+
 ---
 
 ## Demonstração
@@ -23,6 +25,8 @@ Também é obrigatório ter um compilador C instalado, como o **GCC**.
 A compilação deve ser feita a partir da raiz do repositório utilizando o comando:
 
 gcc main.c -o calculadora
+Esse comando irá gerar um arquivo executável chamado calculadora.
+
 Uso e Exemplos
 Após a compilação, o programa pode ser executado com o comando:
 
