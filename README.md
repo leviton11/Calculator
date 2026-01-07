@@ -3,9 +3,6 @@
 Este projeto é uma calculadora simples desenvolvida em linguagem **C** e executada via terminal (CLI).  
 Ela permite realizar operações matemáticas básicas como **soma, subtração, multiplicação e divisão**.
 
-O objetivo do projeto é **educacional**, focado na prática de lógica de programação e no uso da linguagem C.
-
----
 
 ## Demonstração
 
@@ -14,8 +11,6 @@ Nela, é possível observar o menu de opções, a escolha da operação de adiç
 Após a operação, o programa é encerrado conforme a escolha do usuário.
 
 ![Demonstração da Calculadora](https://raw.githubusercontent.com/leviton11/Calculator/refs/heads/main/assets/demo.png)
-
----
 
 ## Instalação e Pré-requisitos
 
@@ -27,7 +22,8 @@ A compilação deve ser feita a partir da raiz do repositório utilizando o coma
 gcc main.c -o calculadora
 Esse comando irá gerar um arquivo executável chamado calculadora.
 
-Uso e Exemplos
+ ## Uso e Exemplos
+ 
 Após a compilação, o programa pode ser executado com o comando:
 
 bash
@@ -36,22 +32,22 @@ Copiar código
 Durante a execução, o usuário informa dois números, escolhe a operação desejada
 e o resultado é exibido diretamente no terminal.
 
-Estrutura do Projeto
-text
-Copiar código
+ ## Estrutura do Projeto
+
 calculadora-c/
 ├── main.c
 ├── README.md
 ├── LICENSE
 └── assets/
     └── demo.png
+    
 main.c: contém o código-fonte da aplicação.
 
 README.md: contém a documentação do projeto.
 
 assets/: armazena as imagens utilizadas na demonstração.
 
-Licença
+ ## Licença
 Este projeto está licenciado sob a Licença MIT.
 
 É permitida a utilização, cópia, modificação, distribuição e venda do software,
